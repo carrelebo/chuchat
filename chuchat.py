@@ -19,6 +19,7 @@ def load(shell):
             break
         else:
             print("programme inexistant")
+            break
 #----------------
 
 #chuchat
