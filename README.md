@@ -5,7 +5,7 @@ Application de chat non sécurisé, mais avec un système ingénieux
 Faites les étapes suivantes :
 - Clonez le :
 ```bash
-git clone 
+git clone https://github.com/carrelebo/chuchat.git
 ```
 - Ouvrez le dossier :
 ```bash
