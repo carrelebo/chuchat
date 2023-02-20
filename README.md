@@ -1,7 +1,7 @@
 # chuchat
 Application de chat non sécurisé, mais avec un système ingénieux
 #Bientôt : déploiment en web
-#Comment l'essayer pour le moment ?
+# Comment l'essayer pour le moment ?
 Faites les étapes suivantes :
 - Clonez le :
 ```bash
@@ -16,5 +16,5 @@ Enfin profité !
 python3 chuchat.py
 ```
 
-#Pourquoi le nom "Chuchat" ?
+# Pourquoi le nom "Chuchat" ?
 C'est un jeu de mot avec le verbe "**chuchot**er" 😂
