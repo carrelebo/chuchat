@@ -1,5 +1,5 @@
 print("""
-Les commandes commece par un slash '/' | Voici la liste des commandes :
+Les commandes sont entre apostrophes '...'
 
 Commandes native :
 
