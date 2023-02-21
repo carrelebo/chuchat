@@ -9,11 +9,13 @@ Commandes native :
 
 - 'clear' : effacer le texte de l'écran
 
-Commandes externes
+Commandes externes :
 
-- 'account' : crée un compte avec un pseudonyme ert un mot de passe.
+- 'create' : crée un compte avec un pseudonyme ert un mot de passe.
 
-- 'create' : crée un salon de chat textuel.
+- 'connect' : se connecter à son compte
+
+- 'room' : crée un salon de chat textuel.
         - taper le nom de votre salon et il sera crée avec le même nom.
 
 - 'enter' : menu pour rentré dans un salon.
